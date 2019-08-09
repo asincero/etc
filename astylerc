@@ -1,0 +1,7 @@
+--style=stroustrup
+--attach-closing-while
+--indent-namespaces
+--add-braces
+--break-closing-braces
+--break-return-type
+--break-return-type-decl
