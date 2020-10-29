@@ -1,0 +1,20 @@
+---
+BasedOnStyle: WebKit
+
+AlignAfterOpenBracket: Align
+AlwaysBreakAfterReturnType: TopLevelDefinitions
+BinPackArguments: false
+BinPackParameters: false
+BraceWrapping:
+    AfterFunction: true
+    BeforeElse: true
+    BeforeCatch: true
+BreakBeforeBraces: Custom
+ColumnLimit: 80
+Language: Cpp
+NamespaceIndentation: All
+
+
+
+
+
